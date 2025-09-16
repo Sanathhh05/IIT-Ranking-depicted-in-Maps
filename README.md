@@ -34,4 +34,6 @@ How to plot data on a Folium interactive map.
 
 Embedding custom HTML popups with images and styled text.
 
-Adding GeoJSON layers for geographical boundaries.
+Adding GeoJSON layers for geographical boundaries. 
+<img width="802" height="914" alt="Screenshot 2025-09-16 153755" src="https://github.com/user-attachments/assets/719141c9-9ade-41cd-872c-7a5b8256aae0" />
+
